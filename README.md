@@ -14,4 +14,4 @@ Framework
 Graphics
 * [Getavatars.com](https://getavataaars.com/)
 * [fontawesome.com](https://fontawesome.com/)
-* [(devicons.dev](https://devicon.dev/)
+* [devicons.dev](https://devicon.dev/)
