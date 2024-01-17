@@ -76,13 +76,26 @@
 		  
 		  <p>Here're my latest blog<br/>
 		  <script>
-		    const fs = require('fs')
-			const path = require('posts')
-			const fullPath = path.join(__dirname, 'posts')
-			fs.readdir(fullPath, (error, files) => {
-			  if (error) console.log(error)
-			  files.forEach( file => console.log(file))
-			})
+		    
+const fs = require('fs')
+const path = require('posts')
+const directoryPath = path.join(__dirname, '/');
+const extension = '.html';
+let files = [];
+
+fs.readdir(directoryPath, function(err, filename) {
+    if(err) {
+        return console.log('Unable to scan directory: '+err)
+    }
+
+    filename.forEach(function (file) {
+        if(path.extname(file) == extension){
+            files.push(file)
+        }
+    })
+
+    console.log(files)
+})
           </script>
 
 			<!--<p><a href="[Blog posts URL]" target="_blank">[Post Title]</a></p>-->
