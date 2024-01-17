@@ -76,8 +76,13 @@
 		  
 		  <p>Here're my latest blog<br/>
 		  <script>
-		    var fs = require('fs');
-			var files = fs.readdirSync('/assets/photos/');
+		    const fs = require('fs')
+			const path = require('posts')
+			const fullPath = path.join(__dirname, 'posts')
+			fs.readdir(fullPath, (error, files) => {
+			  if (error) console.log(error)
+			  files.forEach( file => console.log(file))
+			})
           </script>
 
 			<!--<p><a href="[Blog posts URL]" target="_blank">[Post Title]</a></p>-->
