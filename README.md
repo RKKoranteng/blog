@@ -1,0 +1,1 @@
+# richardkoranteng.github.io
