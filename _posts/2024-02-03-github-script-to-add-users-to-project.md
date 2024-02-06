@@ -1,7 +1,7 @@
 ---
 title: 'WebDev: Using Github Pages for my site '
 author: Richard Koranteng
-date: 2024-02-06 16:00:00 -0600
+date: 2024-02-05 7:00:00 -0600
 description: Rebrand my blog site to use GitHub Pages + Jekyll Theme
 categories: [GitHub, WebDev]
 tags: [GitHub, WebDev, Projects]
