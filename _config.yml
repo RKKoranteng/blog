@@ -9,48 +9,49 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: America/Chicago
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: josh-ops # the main title
+title: RK-stuff # the main title
 
-tagline: A DevOps Blog # it will display as the sub-title
+tagline: A Techie Blog  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Blogging about Azure DevOps and GitHub practices, tips, and my continuous improvement DevOps journey.
+  Blogging about databases, automation, cloud and my continuous improvement DevOps journey.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-#url: "https://josh-ops.com"
+url: https://RKKoranteng.github.io
+#url: "https://rkkoranteng.com"
 
 github:
   username: rkkoranteng # change to your github username
 
-twitter:
-  username: rkkoranteng # change to your twitter username
+#twitter:
+  #username: rkkoranteng # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Josh Johanning
-  email: jjohanning@uwalumni.com # change to your email address
+  name: Richard Koranteng
+  email: richard@rkkoranteng.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/joshjohanning # change to your github homepage
-    - https://twitter.com/jjjettrain # change to your twitter homepage
+    - https://github.com/RKKoranteng # change to your github homepage
+    #- https://twitter.com/rkkoranteng # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/joshua-johanning/
+    - https://www.linkedin.com/in/richard-koranteng
 
-google_site_verification: eTIC71VhPBtwll8rNv7qlXud1yJh6E88No39MdcM_MI # change to your verification string
+#google_site_verification: eTIC71VhPBtwll8rNv7qlXud1yJh6E88No39MdcM_MI # change to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id: "G-GE92ZJY22K" # fill in your Google Analytics ID
+#google_analytics:
+#  id: "G-GE92ZJY22K" # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
@@ -89,7 +90,7 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: joshjohanning/joshjohanning.github.io
+    repo: rkkoranteng/richardkoranteng.github.io
     issue_term: title # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
