@@ -1,6 +1,6 @@
 ---
 title: 'GitHub: Script to Add Users to a Project'
-author: Josh Johanning
+author: Richard Koranteng
 date: 2024-02-03 7:00:00 -0600
 description: Add users to a GitHub ProjectV2 programmatically
 categories: [GitHub, Scripts]
