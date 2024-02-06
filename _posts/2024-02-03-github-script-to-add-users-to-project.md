@@ -1,16 +1,16 @@
 ---
-title: 'GitHub: Script to Add Users to a Project'
+title: 'Web: Using Github Pages for my site '
 author: Richard Koranteng
-date: 2024-02-03 7:00:00 -0600
-description: Add users to a GitHub ProjectV2 programmatically
+date: 2024-02-06 16:00:00 -0600
+description: Rebrand my blog site to use GitHub Pages + Jekyll Theme
 categories: [GitHub, Scripts]
-tags: [GitHub, Scripts, Projects]
+tags: [GitHub, Web, Projects]
 img_path: /assets/screenshots/2024-02-03-github-script-to-add-users-to-project
 image:
   path: github-project.png
   width: 100%
   height: 100%
-  alt: An organization Project in GitHub
+  alt: My new blog site
 ---
 
 ## Overview
