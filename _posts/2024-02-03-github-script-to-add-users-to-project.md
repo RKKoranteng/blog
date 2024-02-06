@@ -1,10 +1,10 @@
 ---
-title: 'Web: Using Github Pages for my site '
+title: 'WebDev: Using Github Pages for my site '
 author: Richard Koranteng
 date: 2024-02-06 16:00:00 -0600
 description: Rebrand my blog site to use GitHub Pages + Jekyll Theme
-categories: [GitHub, Scripts]
-tags: [GitHub, Web, Projects]
+categories: [GitHub, WebDev]
+tags: [GitHub, WebDev, Projects]
 img_path: /assets/screenshots/2024-02-03-github-script-to-add-users-to-project
 image:
   path: github-project.png
