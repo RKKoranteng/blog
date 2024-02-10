@@ -5,14 +5,14 @@ order: 4
 ---
 
 
-## Hi there, I'm Richard<a href="https://www.rkkoranteng.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there, I'm Richard<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
 I'm a Senior Database Engineer, Consultant, and DBA Advocate.
 
-* I am a Senior Database Engineer, Consultant, and DBA Advocate, with a passion for modernizing database environments 
+* I have a passion for modernizing database environments 
 * I spend my time creating solutions to automate database lifecycle
-* I sharing my tech journey and scripts on [github](https://github.com/RKKoranteng)
-* I blog about my DevOps experiences at [rkkoranteng.com](https://rkkoranteng.com)
+* I share my scripts on [github](https://github.com/RKKoranteng)
+* I blog about my database experiences at [rkkoranteng.com](https://rkkoranteng.com)
 
 To contact me:
 
