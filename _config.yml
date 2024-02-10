@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: RK-stuff # the main title
+title: rkkoranteng # the main title
 
-tagline: A Techie Blog  # it will display as the sub-title
+tagline: my tech stuff  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blogging about databases, automation, cloud and my continuous improvement DevOps journey.
