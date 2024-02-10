@@ -1,10 +1,10 @@
 ---
-title: Speaking
+title: Training
 icon: fas fa-comment
 order: 5
 ---
 
-Interested in having me speak? Contact me through [LinkedIn](https://www.linkedin.com/in/joshua-johanning/)!
+Interested in learning database stuff? Contact me through [LinkedIn](https://www.linkedin.com/in/richard-koranteng)!
 
 ![VS Live 2022 Redmond - How to Implement Developer-optimized Application Security](/assets/img/sample/speaking.jpg){: .shadow }
 _VS Live 2022 Redmond - How to Implement Developer-optimized Application Security_
