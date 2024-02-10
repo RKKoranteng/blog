@@ -5,21 +5,17 @@ order: 4
 ---
 
 
-### Hi there 👋
+## Hi there, I'm Richard<a href="https://www.rkkoranteng.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-⚡ My name is Josh Johanning and I am a Senior DevOps Architect with GitHub on the FastTrack team 🚀
+I'm a Senior Database Engineer, Consultant, and DBA Advocate.
 
-⚡ Previously I was a Senior Cloud Automation Engineer with the Cognizant Microsoft Business Group (formerly 10th Magnitude)
+* I am a Senior Database Engineer, Consultant, and DBA Advocate, with a passion for modernizing database environments 
+* I spend my time creating solutions to automate database lifecycle
+* I sharing my tech journey and scripts on [github](https://github.com/RKKoranteng)
+* I blog about my DevOps experiences at [rkkoranteng.com](https://rkkoranteng.com)
 
-⚡ I store my miscellaneous GitHub scripts in [github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) repo
+To contact me:
 
-⚡ I use my [ghas-demo](https://github.com/joshjohanning/ghas-demo) repository for my GitHub Advanced Security Demo - see PDF [here](https://github.com/joshjohanning/ghas-demo/blob/main/ghas-demo.pdf)
-
-⚡ I have been an avid user of Azure Pipelines and have my pipeline templates consolidated in my [pipeline-templates](https://github.com/joshjohanning/pipeline-templates) repo
-
-⚡ I blog about my DevOps experiences at [josh-ops.com](https://josh-ops.com)
-
-⚡ To contact me: 
-  - 🌱 Leave a comment on one of my [posts](https://josh-ops.com)!
-  - 🌱 [Message me on LinkedIn](https://www.linkedin.com/in/joshua-johanning/)
-  - 🌱 [Tweet me](https://twitter.com/jjjettrain)
+* leave a comment on one of my [posts](https://rkkoranteng.com)!
+* [Connect on LinkedIn](https://www.linkedin.com/in/richard-koranteng)
+* Got an offer for me? Reach me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
