@@ -6,8 +6,8 @@ order: 5
 
 Interested in learning database stuff? Contact me through [LinkedIn](https://www.linkedin.com/in/richard-koranteng)!
 
-![VS Live 2022 Redmond - How to Implement Developer-optimized Application Security](/assets/img/sample/speaking.jpg){: .shadow }
-_VS Live 2022 Redmond - How to Implement Developer-optimized Application Security_
+![Chaveran 2022 - Oracle DBA Training](/assets/img/sample/training.jpg){: .shadow }
+_Chaveran 2022 - Oracle DBA Training_
 
 ## Speaking Engagements
 
