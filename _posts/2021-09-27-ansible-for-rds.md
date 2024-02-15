@@ -68,6 +68,8 @@ Create the Oracle RDS instance by running the playbook. Use the command below.
 ```bash
 ansible-playbook create-rds-oracle.yml
 ```
+
+A new RDS instance should be created. It should look something like this in AWS Console.
 ![Simple Ansible Playbook to Create RDS Instance](ansible-create-rds.png){: .shadow }{: .light }
 ![Simple Ansible Playbook to Create RDS Instance](ansible-create-rds.png){: .shadow }{: .dark }
 _Auto-magically spun-up RDS instance_
