@@ -1,8 +1,8 @@
 ---
-title: 'Oracle 18c GI and RDMS Installation on RHEL7'
+title: 'Oracle 18c GI & RDMS on RHEL7'
 author: Richard Koranteng
 date: 2019-03-24 7:00:00 -0600
-description: Silent installation of Oracle 18c Grid Infrastructure and Database
+description: Silent installation of Oracle 18c Grid Infrastructure and Database on Red Hat Enterprise Linux 7
 categories: [Database,Oracle]
 tags: [Oracle]
 img_path: /assets/screenshots/2019-03-24-oracle-rdbms-18c-silent-installation-on-rhel-7
@@ -13,23 +13,21 @@ image:
   alt: oracle rdbms 18c silent install
 ---
 
-## Overview
 This post describes silent installation and configuration of Grid Infrastructure 18c (64bit) and Oracle Database 18c (64bit) on RHEL 7. The implementation described in this blog is based on a server installation with a minimum resource allocations required by Oracle.
 
-
-## Pre-Install Tasks
+## Download Softwares
 [Download software from OTN](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/oracle18c-linux-180000-5022980.html)
 * Database 18c (18.3) for Linux x86-64 (`LINUX.X64_180000_db_home.zip`{: .filepath})
 * Grid Infrastructure (18.3) for Linux x86-64 (`LINUX.X64_180000_grid_home.zip`{: .filepath})
 
-> Note: the following section is performed as root OS user
+## Pre-Install Tasks
+> * Pre-install tasks are performed as root OS user
+> * Oracle recommends that you disable THP on all Oracle Database servers and rather use standard HugePages for enhanced performance. For Oracle Linux 7 and later, and Red Hat Enterprise Linux 7 and later, add `transparent_hugepage=never` in the `/etc/default/grub file`{: .filepath}.
+> * Ensure the `/etc/hosts`{: .filepath} file to contain the IP and FQDN of the server. 
+> * Ensure the correct hostname in the `/etc/hostname`{: .filepath} file
 {: .prompt-info }
 
-* Oracle recommends that you disable THP on all Oracle Database servers and rather use standard HugePages for enhanced performance. For Oracle Linux 7 and later, and Red Hat Enterprise Linux 7 and later, add `transparent_hugepage=never` in the /etc/default/grub file.
-* Ensure the /etc/hosts file to contain the IP and FQDN of the server. Ensure the correct hostname in the “/etc/hostname” file
-
-Identify your ASM disk by adding them to the to /etc/udev/rules.d/97-oracleasm.rules. It should look like this:
-
+Identify your ASM disk by adding them to the to `/etc/udev/rules.d/97-oracleasm.rules`{: .filepath}. It should look like this:
 ```bash
 OWNER="grid", GROUP="asmadmin", MODE="0660", ENV{DEVTYPE}=="disk", KERNEL=="xvdca", SYMLINK+="oracleasm/disks/DATA1"
 OWNER="grid", GROUP="asmadmin", MODE="0660", ENV{DEVTYPE}=="disk", KERNEL=="xvdcb", SYMLINK+="oracleasm/disks/FRA1"
@@ -46,12 +44,12 @@ Run the following command to initialize ASM disks
 for dsk in `ls /dev/oracleasm/disks/*`; do echo 'initializing ',${dsk}; dd if=/dev/zero of=${dsk} bs=4096 count=1; done
 ```
 
-Adjust your Linux kernels as needed for your environment by adding the necessary entries and values in the /etc/sysctl.conf. Reload the updated Linux kernels by running the following command:
+Adjust your Linux kernels as needed for your environment by adding the necessary entries and values in the `/etc/sysctl.conf`{: .filepath}. Reload the updated Linux kernels by running the following command:
 ```bash
 sysctl -p
 ```
 
-Adjust system resources available to oracle and grid OS user process by adding the necessary enrties and values in the /etc/security/limits.d/oracle-database-preinstall-18c.conf.
+Adjust system resources available to oracle and grid OS user process by adding the necessary enrties and values in the `/etc/security/limits.d/oracle-database-preinstall-18c.conf`{: .filepath}.
 
 Install the following required OS packages required for RHEL 7.
 ```bash
@@ -72,7 +70,7 @@ useradd -g oinstall -G dba,bckpdba,dgdba,kmdba,asmoper,asmadmin oracle
 useradd -g oinstall -G dba,asmoper,asmadmin grid
 ```
 
-Ensure secure Linux is set to “targeted” in /etc/selinux/config
+Ensure secure Linux is set to `targeted` in `/etc/selinux/config`{: .filepath}
 ```bash
 SELINUX= can take one of these three values:
  enforcing - SELinux security policy is enforced.
@@ -94,10 +92,10 @@ chmod 770 /u01
 ```
 
 ## Grid Infrastructure Installation & Configuration Tasks
-> Note: the following section is performed as grid OS user
+> GI installation tasks are performed as grid OS user
 {: .prompt-info }
 
-Add the following lines to the /home/grid/.bash_profile
+Add the following lines to the `/home/grid/.bash_profile`{: .filepath}
 ```bash
 ORACLE_BASE=/u01/grid/base; export ORACLE_BASE
 GRID_HOME=/u01/grid/home; export GRID_HOME
@@ -106,12 +104,12 @@ ORACLE_SID=+ASM; export ORACLE_SID
 PATH=$PATH:$ORACLE_HOME/bin:$ORACLE_HOME/OPatch; export PATH
 ```
 
-Source the grid OS user bash profile
+Source the grid OS user profile
 ```bash
 source ~/.bash_profile
 ```
 
-Add the following lines in /home/grid/gi_soft.rsp in-order to create the response file for silent software installation.
+Add the following lines in `/home/grid/gi_soft.rsp`{: .filepath} in-order to create the response file for silent software installation.
 ```bash
 oracle.install.responseFileVersion=/oracle/install/rspfmt_crsinstall_response_schema_v18.0.0 INVENTORY_LOCATION=/u01/oraInventory oracle.install.option=HA_CONFIG ORACLE_BASE=/u01/grid/base oracle.install.asm.OSDBA=oinstall oracle.install.asm.OSASM=asmadmin oracle.install.asm.storageOption=ASM oracle.install.asm.SYSASMPassword=putYourPassword oracle.install.asm.diskGroup.name=DATA oracle.install.asm.diskGroup.redundancy=EXTERNAL oracle.install.asm.diskGroup.disks=/dev/oracleasm/disks/DATA1,/dev/oracleasm/disks/FRA1 oracle.install.asm.diskGroup.diskDiscoveryString=/dev/oracleasm/disks/* oracle.install.asm.monitorPassword=putYourPassword oracle.install.asm.configureAFD=false
 ```
@@ -127,14 +125,12 @@ Invoke OUI silent installation
 /u01/grid/home/gridSetup.sh -silent -responseFile /home/grid/gi_soft.rsp
 ```
 
-After installation, execute post installation script
-> Note: run the post install scripts as root OS user
+> Open another terminal, then run the post install scripts below as root OS user
+> ```bash
+> /u01/oraInventory/orainstRoot.sh
+> /u01/grid/home/root.sh[
+> ```
 {: .prompt-info }
-
-```bash
-/u01/oraInventory/orainstRoot.sh
-/u01/grid/home/root.sh[
-```
 
 Run the following command to complete GI configuration
 ```bash
