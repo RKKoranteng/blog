@@ -19,8 +19,8 @@ This post describes silent installation and configuration of Grid Infrastructure
 
 ## Pre-Install Tasks
 [Download software from OTN](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/oracle18c-linux-180000-5022980.html)
-* Database 18c (18.3) for Linux x86-64 LINUX.X64_180000_db_home.zip)
-* Grid Infrastructure (18.3) for Linux x86-64 (LINUX.X64_180000_grid_home.zip)
+* Database 18c (18.3) for Linux x86-64 (`LINUX.X64_180000_db_home.zip`{: .filepath})
+* Grid Infrastructure (18.3) for Linux x86-64 (`LINUX.X64_180000_grid_home.zip`{: .filepath})
 
 > Note: the following section is performed as root OS user
 {: .prompt-info }
