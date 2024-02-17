@@ -3,7 +3,7 @@ title: 'Simple Ansible Playbook to Create RDS Instance'
 author: Richard Koranteng
 date: 2021-09-27 7:00:00 -0600
 description: Simple Ansible Playbook to Create RDS Instance
-categories: [IaC,Ansible]
+categories: [IaC]
 tags: [Ansible,RDS]
 img_path: /assets/screenshots/2021-09-27-ansible-for-rds
 image:
@@ -13,7 +13,6 @@ image:
   alt: ansbible playbook for rds
 ---
 
-## Overview
 Create an Oracle RDS database in AWS within minutes by automating the entire provisioning process using [Ansible](https://www.ansible.com/).
 For this demo I’m running Ansible (2.9.2) and the latest version of AWS CLI on RHEL8.
 
@@ -27,7 +26,7 @@ unzip awscli-bundle.zip
 sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
 ```
 
-3. Configure credentials by adding keys to the credentials file (~/.aws/credentials)
+3. Configure credentials by adding keys to the credentials file `~/.aws/credentials`{: .filepath}
 ```bash
 [default]
  aws_access_key_id=<put access key here>
@@ -35,13 +34,14 @@ sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws
 ```
 
 > Note: boto is required for the Ansible modules. Ansible uses python libraries in the backend, so you need to install the boto on your system. Use the below command to download the boto module.
+{: .prompt-info }
 
 ```bash
 pip3 install boto
 ```
 
 ## Create Ansible Playbook
-Create an empty file called "create-rds-oracle.yml", then copy the content below into the playbook. Modify the playbook to fit your specs.
+Create an empty file called `create-rds-oracle.yml`{: .filepath}, then copy the content below into the playbook. Modify the playbook to fit your specs.
 ```yml
 - name: create-oracle-rds
   hosts: localhost

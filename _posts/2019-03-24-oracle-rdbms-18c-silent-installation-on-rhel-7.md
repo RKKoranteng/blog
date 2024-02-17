@@ -125,12 +125,11 @@ Invoke OUI silent installation
 /u01/grid/home/gridSetup.sh -silent -responseFile /home/grid/gi_soft.rsp
 ```
 
-> Open another terminal, then run the post install scripts below as root OS user
-> ```bash
-> /u01/oraInventory/orainstRoot.sh
-> /u01/grid/home/root.sh[
-> ```
-{: .prompt-info }
+Open another terminal, then run the post install scripts below as root OS user
+```bash
+/u01/oraInventory/orainstRoot.sh
+/u01/grid/home/root.sh[
+```
 
 Run the following command to complete GI configuration
 ```bash
@@ -153,10 +152,10 @@ asmca -silent -createDiskGroup -diskString '/dev/oracleasm/disks/*' -diskGroupNa
 ```
 
 ## Database Installation and Configuration Tasks
-> Note: the following section is performed as oracle OS user
+> DB installation tasks are performed as oracle OS user
 {: .prompt-info }
 
-Add the following lines to the /home/oracle/.bash_profile
+Add the following lines to the `/home/oracle/.bash_profile`{: .filepath}
 ```bash
 ORACLE_BASE=/u01/app; export ORACLE_BASE
 ORACLE_HOME=/u01/app/18R3; export ORACLE_HOME
@@ -169,7 +168,7 @@ Source the profile
 source ~/.bash_profile
 ```
 
-Add the following lines in /home/oracle/db_soft_only.rsp in-order to create the response file for silent software only installation
+Add the following lines in `/home/oracle/db_soft_only.rsp`{: .filepath} in-order to create the response file for silent software only installation
 ```bash
 oracle.install.responseFileVersion=/oracle/install/rspfmt_dbinstall_response_schema_v18.0.0 oracle.install.option=INSTALL_DB_SWONLY UNIX_GROUP_NAME=oinstall INVENTORY_LOCATION=/u01/oraInventory ORACLE_HOME=/u01/app/18R3 ORACLE_BASE=/u01/app oracle.install.db.InstallEdition=EE oracle.install.db.OSDBA_GROUP=dba oracle.install.db.OSOPER_GROUP=dba oracle.install.db.OSBACKUPDBA_GROUP=bckpdba oracle.install.db.OSDGDBA_GROUP=dgdba oracle.install.db.OSKMDBA_GROUP=kmdba oracle.install.db.OSRACDBA_GROUP=dba SECURITY_UPDATES_VIA_MYORACLESUPPORT=false DECLINE_SECURITY_UPDATES=true oracle.installer.autoupdates.option=SKIP_UPDATES
 ```
@@ -185,9 +184,6 @@ u01/app/18R3/runInstaller -silent -responseFile ~/db_soft_only.rsp
 ```
 
 Upon installation completion, execute the post installation scripts
-> Note: run the post install scripts as root OS user
-{: .prompt-info }
-
 ```bash
 /u01/app/18R3/root.sh
 ```
