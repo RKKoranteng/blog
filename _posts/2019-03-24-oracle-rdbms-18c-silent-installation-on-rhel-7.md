@@ -7,7 +7,7 @@ categories: [Database,Oracle]
 tags: [Oracle]
 img_path: /assets/screenshots/2019-03-24-oracle-rdbms-18c-silent-installation-on-rhel-7
 image:
-  path: cover.png
+  path: 2019-03-24-oracle-rdbms-18c-silent-installation-on-rhel-7.png
   width: 100%
   height: 100%
   alt: oracle rdbms 18c silent install
