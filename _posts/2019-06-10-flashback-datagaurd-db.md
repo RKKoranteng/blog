@@ -10,7 +10,7 @@ image:
   path: 2019-06-10-flashback-datagaurd-db.png
   width: 100%
   height: 100%
-  alt: oem 13c performance hub
+  alt: oracle data guard architecture
 ---
 
 Logical mistake, end of testing cycle, need to rollback database to a previous state? RMAN restore can help, however there’s an easier way: we can address these scenarios with the Flashback technique. In the case of a standalone Oracle database, there is nothing special to take into account when performing flashback. However, performing flashback of a Data Guard environment needs special treatment of the Standby Database to ensure data consistency. This article will show you how to do that
