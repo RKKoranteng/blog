@@ -4,24 +4,21 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Hi, welcome <a href="https://rkkoranteng.com/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there, I'm <a href="https://rkkoranteng.com/" target="blank">Richard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"></a>
 
-Wow, you made it to the form! That's great for both of us. This is the place where I open-source stuff 👍
-
-* 🔭  I’m currently working on something cool 😉
-* 🌱  I’m currently learning Python and Bicep
-* 💬  Ask me about anything related to databases or how to automate database workloads
+Curious about this website? Let me give you the scoop!
+* 👍  This is the place where I blog about my agile database journey 
+* 🔭  ’m currently working on something cool. Here's [my public roadmap](#) 😉
 * 👨‍💻  Checkout my website [rkkoranteng.com](https://rkkoranteng.com)
-* ⚡  Fun fact: I ❤️ 🏋️
-
 
 <!-- 📘 &nbsp;**Latest Blog Posts** -->
 
 
 🔗 &nbsp; **Connect with me**
-* <a href="https://dev.to/rkkoranteng" target="blank">Dev.to</a>
-* <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">LinkedIn</a>
-* Got an offer for me? Reach me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
+* Agile database consulting <a href="https://rkkoranteng.com" target="blank">@rkkoranteng.com</a>
+<!-- * <a href="https://dev.to/rkkoranteng" target="blank">Dev.to</a> -->
+* LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
+* Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
 
 ✨ &nbsp; **About Me**
 
