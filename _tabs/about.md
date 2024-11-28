@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-### Hi there, I'm <a href="https://rkkoranteng.com/" target="blank">Richard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"></a>
+### Hi there, I'm Richard<a href="https://rkkoranteng.com/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Curious about this website? Let me give you the scoop!
 * 👍  This is the place where I blog about my agile database journey 
