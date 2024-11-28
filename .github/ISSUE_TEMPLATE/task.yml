@@ -2,6 +2,8 @@ name: 💡 Task
 description: File a bug/issue
 title: "Task: <title>"
 labels: ["enhancement"]
+assignees: "rkkoranteng"
+projects: "projects/23"
 body:
      
   - type: textarea
