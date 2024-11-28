@@ -1,0 +1,31 @@
+name: 💡 Task
+description: File a bug/issue
+title: "User Story: <title>"
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug/issue report! Your feedback helps us create a better database experience our user community.
+  - type: textarea
+    id: current-behavior
+    attributes:
+      label: Current Behavior
+      description: Tell us what went wrong.
+      placeholder: Please give a detailed description of what you're experiencing.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: Tell us what should've happened.
+      placeholder: Please give a detailed description of what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
