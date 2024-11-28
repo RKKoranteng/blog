@@ -23,13 +23,11 @@ body:
       label: Acceptance Criteria
       placeholder: |
         **Definition of Done**
-        ☑ test
-        - [x] All tasks for the story are completed and reviewed.
-        - [x] Code has been reviewed for secrets before merging into the main branch.
-        - [x] Unit tests cover at least 85% of the code and pass successfully.
-        - [x] Acceptance criteria in the story are met.
-        - [x] Documentation completed for the new/enhanced feature.
-        - [x] The deployment checklist is completed, and the feature is ready for release.
+        - ☑ **Code Quality**: All tasks for the story are completed and reviewed.
+        - ☑ **Security and Compliance**: Code has been reviewed for sensitive stuff like passwords etc 
+        - ☑ **Testing**: Feature add/enhancements work as expected 
+        - ☑ **Documentation**: User guide completed. I need this for my own future reference
+        - ☑ **No Tech-Debt**: The deployment checklist is completed and the acceptance criteria in the story are met.
         
     validations:
       required: true
