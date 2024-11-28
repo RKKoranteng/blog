@@ -17,23 +17,20 @@ body:
     validations:
       required: true
       
-  - type: textarea
+  - type: checkboxes
     id: Acceptance-Criteria
     attributes:
       label: Acceptance Criteria
-      value: |
-        **Definition of Done**
-        - ☑ **Code Quality**: All tasks for the story are completed and reviewed.
-        - ☑ **Security and Compliance**: Code has been reviewed for sensitive stuff like passwords etc 
-        - ☑ **Testing**: Feature add/enhancements work as expected 
-        - ☑ **Documentation**: User guide completed. I need this for my own future reference
-        - ☑ **No Tech-Debt**: The deployment checklist is completed and the acceptance criteria in the story are met.
-        
+      options:
+        - label: Code Quality: All tasks for the story are completed and reviewed
+          required: true
+        - label: Security and Compliance: Code has been reviewed for sensitive stuff like passwords etc 
+          required: true
+        - label: Testing: Feature add/enhancements work as expected
+          required: true
+        - label: Documentation: User guide completed. I need this for my future reference 😅
+          required: true
+        - label: No Tech-Debt: The deployment checklist is completed and the acceptance criteria in the story are met. 
+          required: true
     validations:
       required: true
- 
-  - type: textarea
-    id: logs
-    attributes:
-      label: Relevant log output
-      render: shell
