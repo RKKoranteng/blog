@@ -46,6 +46,7 @@ Here’s a practical way to begin:
 ### Summary
 The Agile transformation summed up in a few words; **think big, start small, learn fast**. Starting small with Agile isn’t about playing it safe; it’s about setting yourself up for success. By easing into Agile practices, your DBA team can adapt naturally, build confidence, and avoid the pitfalls of trying to do too much too soon. Remember, Agile is a journey, not a race. Taking it one step at a time ensures that every step moves you closer to a thriving Agile culture.
 
-Ready to start small and go Agile? Let’s do this! 🚀
 
-Would you like ideas for specific pilot projects or Agile tools to kickstart your journey? [☎️ Schedule a call with me!](https://calendly.com/rkkoranteng/free-consultation)
+🚀 Would you like ideas for specific pilot projects or Agile tools to kickstart your journey?
+
+ [☎️ Schedule a call with me!](https://calendly.com/rkkoranteng/free-consultation)
