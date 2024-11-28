@@ -14,9 +14,9 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: rkkoranteng # the main title
+title: [r.k] # the main title
 
-tagline: my tech stuff  # it will display as the sub-title
+tagline: My agile Journey  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blogging about databases, automation, cloud and my continuous improvement DevOps journey.
