@@ -1,9 +1,9 @@
-name: 💡 Task
-description: File a bug/issue
-title: "Task: <title>"
+name: 💡 Feature Add & Enhancements
+description: Feature Add & Enhancements
+title: "Task: "
 labels: ["enhancement"]
 assignees: "rkkoranteng"
-projects: "projects/23"
+projects: "RKKoranteng/23"
 body:
      
   - type: textarea
