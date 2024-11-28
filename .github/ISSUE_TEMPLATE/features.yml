@@ -32,5 +32,4 @@ body:
           required: true
         - label: No Tech-Debt: The deployment checklist is completed and the acceptance criteria in the story are met. 
           required: true
-    validations:
-      required: true
+
