@@ -17,20 +17,15 @@ body:
     validations:
       required: true
       
-  - type: checkboxes
+  - type: markdown
     id: Acceptance-Criteria
     attributes:
       label: Acceptance Criteria
-      options:
-        - label: Code Quality - All tasks for the story are completed and reviewed
-          check: true
-        - label: Security and Compliance - Code has been reviewed for sensitive stuff like passwords etc 
-          check: true
-        - label: Testing - Feature add/enhancements work as expected
-          check: true
-        - label: Documentation - User guide completed. I need this for my future reference 😅
-          check: true
-        - label: No Tech-Debt - The deployment checklist is completed and the acceptance criteria in the story are met.
-          check: true
+      value: |
+        - [x] **Code Quality** - All tasks for the story are completed and reviewed
+        - [x] **Security and Compliance** - Code has been reviewed for sensitive stuff like passwords etc 
+        - [x] **Testing** - Feature add/enhancements work as expected
+        - [x] **Documentation** - User guide completed. I need this for my future reference 😅
+        - [x] **No Tech-Debt** - The deployment checklist is completed and the acceptance criteria in the story are met.
     validations:
       required: true
