@@ -23,13 +23,14 @@ body:
       label: Acceptance Criteria
       options:
         - label: Code Quality: All tasks for the story are completed and reviewed
-          required: true
+          
         - label: Security and Compliance: Code has been reviewed for sensitive stuff like passwords etc 
-          required: true
+          
         - label: Testing: Feature add/enhancements work as expected
-          required: true
+          
         - label: Documentation: User guide completed. I need this for my future reference 😅
-          required: true
+          
         - label: No Tech-Debt: The deployment checklist is completed and the acceptance criteria in the story are met. 
-          required: true
-
+          
+    validations:
+      required: true
