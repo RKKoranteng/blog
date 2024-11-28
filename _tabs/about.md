@@ -8,7 +8,7 @@ order: 4
 
 Curious about this website? Let me give you the scoop!
 * 👍  This is the place where I blog about my agile database journey 
-* 🔭  ’m currently working on something cool. Here's [my public roadmap](#) 😉
+* 🔭  I’m currently working on something cool. Here's [my public kanban board](https://github.com/users/RKKoranteng/projects/23) 😉
 * 👨‍💻  Checkout my website [rkkoranteng.com](https://rkkoranteng.com)
 
 <!-- 📘 &nbsp;**Latest Blog Posts** -->
@@ -16,7 +16,6 @@ Curious about this website? Let me give you the scoop!
 
 🔗 &nbsp; **Connect with me**
 * Agile database consulting <a href="https://rkkoranteng.com" target="blank">@rkkoranteng.com</a>
-<!-- * <a href="https://dev.to/rkkoranteng" target="blank">Dev.to</a> -->
 * LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
 * Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
 
