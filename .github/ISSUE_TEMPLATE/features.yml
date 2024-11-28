@@ -20,8 +20,8 @@ body:
   - type: markdown
     id: Acceptance-Criteria
     attributes:
-      label: Acceptance Criteria
       value: |
+        ### Acceptance Criteria
         - [x] **Code Quality** - All tasks for the story are completed and reviewed
         - [x] **Security and Compliance** - Code has been reviewed for sensitive stuff like passwords etc 
         - [x] **Testing** - Feature add/enhancements work as expected
