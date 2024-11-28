@@ -22,15 +22,10 @@ body:
     attributes:
       label: Acceptance Criteria
       options:
-        - label: Code Quality: All tasks for the story are completed and reviewed
-          
-        - label: Security and Compliance: Code has been reviewed for sensitive stuff like passwords etc 
-          
-        - label: Testing: Feature add/enhancements work as expected
-          
-        - label: Documentation: User guide completed. I need this for my future reference 😅
-          
-        - label: No Tech-Debt: The deployment checklist is completed and the acceptance criteria in the story are met. 
-          
+        - label: Code Quality - All tasks for the story are completed and reviewed
+        - label: Security and Compliance - Code has been reviewed for sensitive stuff like passwords etc 
+        - label: Testing - Feature add/enhancements work as expected
+        - label: Documentation - User guide completed. I need this for my future reference 😅
+        - label: No Tech-Debt - The deployment checklist is completed and the acceptance criteria in the story are met. 
     validations:
       required: true
