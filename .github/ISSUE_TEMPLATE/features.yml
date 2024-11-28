@@ -21,7 +21,7 @@ body:
     id: Acceptance-Criteria
     attributes:
       label: Acceptance Criteria
-      placeholder: |
+      value: |
         **Definition of Done**
         - ☑ **Code Quality**: All tasks for the story are completed and reviewed.
         - ☑ **Security and Compliance**: Code has been reviewed for sensitive stuff like passwords etc 
