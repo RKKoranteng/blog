@@ -5,12 +5,12 @@ date: 2024-11-24 15:00:00 -0600
 description: Starting small with your Agile journey is crucial for setting a strong foundation and ensuring long-term success.
 categories: [lessons-learned]
 tags: [agile]
-img_path: /assets/screenshots/2019-03-24-oracle-rdbms-18c-silent-installation-on-rhel-7
+img_path: /assets/screenshots/2024-11-28-starting-small-is-the-best-way-to-begin-your-agile-journey
 image:
-  path: 2019-03-24-oracle-rdbms-18c-silent-installation-on-rhel-7.png
+  path: cover.jpg
   width: 100%
   height: 100%
-  alt: orl
+  alt: think big, start small, learn fast
 ---
 
 Agile is a game-changer for teams looking to boost productivity, adapt to change, and deliver high-quality results. But diving headfirst into Agile without preparation can feel overwhelming and risky. That’s why starting small is not just a good idea - it’s essential for long-term success. Take my word for it; I've learned this the hard way.
@@ -44,7 +44,7 @@ Here’s a practical way to begin:
 * **Expand Gradually:** Once your pilot project succeeds, scale Agile to other projects.
 
 ### Summary
-Starting small with Agile isn’t about playing it safe; it’s about setting yourself up for success. By easing into Agile practices, your DBA team can adapt naturally, build confidence, and avoid the pitfalls of trying to do too much too soon. Remember, Agile is a journey, not a race. Taking it one step at a time ensures that every step moves you closer to a thriving Agile culture.
+The Agile transformation summed up in a few words; **think big, start small, learn fast**. Starting small with Agile isn’t about playing it safe; it’s about setting yourself up for success. By easing into Agile practices, your DBA team can adapt naturally, build confidence, and avoid the pitfalls of trying to do too much too soon. Remember, Agile is a journey, not a race. Taking it one step at a time ensures that every step moves you closer to a thriving Agile culture.
 
 Ready to start small and go Agile? Let’s do this! 🚀
 
