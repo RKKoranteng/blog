@@ -23,6 +23,7 @@ body:
       label: Acceptance Criteria
       placeholder: |
         **Definition of Done**
+        ☑ test
         - [x] All tasks for the story are completed and reviewed.
         - [x] Code has been reviewed for secrets before merging into the main branch.
         - [x] Unit tests cover at least 85% of the code and pass successfully.
