@@ -2,6 +2,9 @@ name: 🐞 Bug Report
 description: File a bug/issue
 title: "[Bug]: <title>"
 labels: ["bug"]
+assignees: "rkkoranteng"
+projects: "RKKoranteng/23"
+
 body:
 
   - type: textarea
