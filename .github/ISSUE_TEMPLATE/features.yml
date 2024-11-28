@@ -21,19 +21,14 @@ body:
     id: Acceptance-Criteria
     attributes:
       label: Acceptance Criteria
-      description: Definition of Done
       placeholder: |
-        ### Implementation Notes
-        ---
-        
-        ### Testing Notes
-        ---
-
-        ### Dependencies
-        ---
-       
-        ### Resources
-        ---
+        **Definition of Done**
+        - [x] All tasks for the story are completed and reviewed.
+        - [x] Code has been reviewed for secrets before merging into the main branch.
+        - [x] Unit tests cover at least 85% of the code and pass successfully.
+        - [x] Acceptance criteria in the story are met.
+        - [x] Documentation completed for the new/enhanced feature.
+        - [x] The deployment checklist is completed, and the feature is ready for release.
         
     validations:
       required: true
