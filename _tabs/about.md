@@ -13,7 +13,6 @@ Curious about this website? Let me give you the scoop!
 
 <!-- 📘 &nbsp;**Latest Blog Posts** -->
 
-
 🔗 &nbsp; **Connect with me**
 * LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
 * Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
