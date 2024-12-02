@@ -10,7 +10,7 @@ image:
   path: know-why.png
   width: 100%
   height: 100%
-  alt: think big, start small, learn fast
+  alt: discover your "why"
 ---
 
 Let’s be real: jumping on the Agile bandwagon can feel like chasing the latest trend. Everyone’s doing it, right? But here’s the deal: without a rock-solid reason behind your Agile transformation, you’re just going through the motions. You need your "why"; the ultimate motivation that gives this whole thing purpose and direction.
@@ -34,10 +34,29 @@ Agile isn't about looking busy; it's about doing better. Knowing your "why" keep
 **1. Talk to the People**
 Get input from your Stakeholders; leaders, team members, and customers. Their stories and pain points will give you clues on what needs fixing or leveling up.
 
-**2. Ask the Right Questions**
+**2. Ask the Tough Questions**
 * What challenges are we facing in our current ways of working?
 * What outcomes do we expect from adopting Agile?
 * How will success be measured?
+
+**3. Link It to Something Real**
+Your "why" shouldn't just sound good; it should make people sit up and go, "I'm onboard, let's do this!". For example, instead of saying, "We’re going Agile", try something like "We're cutting delivery time in half to stay ahead of the competition". This approach will help you frame your "why" in terms of tangible business benefits.
+
+**4. Spread the Word**
+Your "why" should be simple, inspiring, and everywhere; slack channels, kickoff meetings, even on the breakroom fridge. If people don't know it, they won't care about it. This is also a key part of adopting Agile; comminicating clearly and consistently.
+
+### Examples of a Compelling "Why"
+* **Customer-Centric Focus:** "We aim to deliver value to our customers faster and more effectively by responding to their needs in real time."
+* **Accelerate Innovation:** "We want to create a culture where teams can experiment, fail fast, and innovate without fear."
+* **Operation Excellence:** "Our goal is to streamline processes, eliminate waste, and create a more efficient organization."
+
+### Sustaining the Why Throughout the Journey
+Knowing your "why" is not a one-time exercise. It's like your Spotify playlist; refresh it regularly to keep it relevant and exciting. Make it part of your retrospectives, planning sessions, and even team bonding moments.
+
+### Summary
+Agile transformation is more than adopting frameworks like Scrum or SAFe; it's a cultural and operational shift that requires deep introspection. Knowing your "why" lays a solid foundation for meaningful change, fosters alignment, and keeps your team focused on delivering real value.
+
+Remember, Agile is a means to an end, not the end itself. Before you jump into ceremonies and tools, take the time to ask, **"Why are we doing this?"**. The answer will guide your path, inspire your teams, and set you on a course for lasting success.
 
 🚀 Reach out if you need help with Agile transformation for your database team.
 
