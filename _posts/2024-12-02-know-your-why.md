@@ -31,6 +31,13 @@ Nothing kills motivation faster than following processes that feel pointless. Wi
 Agile isn't about looking busy; it's about doing better. Knowing your "why" keeps the focus on making changes that count instead of just ticking off boxes on some checklist.
 
 ### How to Find Your Why
+**1. Talk to the People**
+Get input from your Stakeholders; leaders, team members, and customers. Their stories and pain points will give you clues on what needs fixing or leveling up.
+
+**2. Ask the Right Questions**
+* What challenges are we facing in our current ways of working?
+* What outcomes do we expect from adopting Agile?
+* How will success be measured?
 
 🚀 Reach out if you need help with Agile transformation for your database team.
 
