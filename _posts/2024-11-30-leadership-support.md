@@ -15,8 +15,6 @@ image:
 
 Agile transformation isn't just a strategy; it’s a game-changer for organizations looking to thrive in today's fast-paced world. But let's be real: if leadership isn't fully invested, the transformation risks falling flat. Leaders aren't just passengers on the Agile journey, they're the drivers. Here's how to inspire leadership to champion Agile and set the stage for long-term success.
 
-Let’s dive into why knowing your "why" is the cheat code for making Agile work, not just another buzzword.
-
 ### Why Leaders Matter in Agile
 I've said this before and I'll continue saying it ... Agile is not just about adopting frameworks like Scrum or Kanban; it's a mindset shift that requires rethinking how your team operates. Leadership's role in this transformation is pivotal. Think of Agile as a team sport; leaders are the coaches. Without their buy-in, it's like playing without a game plan. Here's why they’re so essential:
 
