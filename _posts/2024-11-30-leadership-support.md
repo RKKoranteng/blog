@@ -19,6 +19,7 @@ Let’s dive into why knowing your "why" is the cheat code for making Agile work
 
 ### Why Leaders Matter in Agile
 I've said this before and I'll continue saying it ... Agile is not just about adopting frameworks like Scrum or Kanban; it's a mindset shift that requires rethinking how your team operates. Leadership's role in this transformation is pivotal. Think of Agile as a team sport; leaders are the coaches. Without their buy-in, it's like playing without a game plan. Here's why they’re so essential:
+
 **1. Setting the Vision:** Leaders set the tone for what success looks like. Without their guidance, teams might struggle to align Agile practices with broader business goals.
 
 **2. Unlocking Resources:** Agile transformation often requires investing in training, tools, and restructuring. Leaders ensure these resources are available.
