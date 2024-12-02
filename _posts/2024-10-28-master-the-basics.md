@@ -21,7 +21,9 @@ Think of Agile like building a playlist. If you don't know the vibe (your "why")
 Here's why the basics matter:
 
 **1. Misalignment Happens:** Teams might adopt Agile rituals without understanding their purpose.
+
 **2. Resistance Grows:** Without context, changes may feel like unnecessary overhead.
+
 **3. Sustainability Suffers:** Long-term adoption fails if the basics aren't ingrained.
 
 ### The Agile 101 You Need to Know
