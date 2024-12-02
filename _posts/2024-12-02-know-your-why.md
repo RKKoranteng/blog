@@ -19,19 +19,24 @@ Let’s dive into why knowing your "why" is the cheat code for making Agile work
 
 ### Why Your "Why" Is a Big Deal
 **1. Alignment with Organizational Goals**
+
 Agile isn't about throwing in a daily stand-up or tasks on a kanban board. It’s about achieving what your team or company really needs, whether that’s building faster, cutting out inefficiencies, or creating products your users can't live without. Your "why" makes sure your goals and Agile practices are vibing together.
 
 **2. Builds a Shared Vision**
+
 Everyone from the interns to the execs needs to know what they're working toward. A strong "why" gets everyone on the same page, pumped up, and ready to crush it.
 
 **3. Avoides Transformation Fatigue**
+
 Nothing kills motivation faster than following processes that feel pointless. With a clear "why", people don't just do Agile; they live it, because they see how it's making a real difference.
 
 **4. Drive Meaningful Change**
+
 Agile isn't about looking busy; it's about doing better. Knowing your "why" keeps the focus on making changes that count instead of just ticking off boxes on some checklist.
 
 ### How to Find Your Why
 **1. Talk to the People**
+
 Get input from your Stakeholders; leaders, team members, and customers. Their stories and pain points will give you clues on what needs fixing or leveling up.
 
 **2. Ask the Tough Questions**
@@ -40,9 +45,11 @@ Get input from your Stakeholders; leaders, team members, and customers. Their st
 * How will success be measured?
 
 **3. Link It to Something Real**
+
 Your "why" shouldn't just sound good; it should make people sit up and go, "I'm onboard, let's do this!". For example, instead of saying, "We’re going Agile", try something like "We're cutting delivery time in half to stay ahead of the competition". This approach will help you frame your "why" in terms of tangible business benefits.
 
 **4. Spread the Word**
+
 Your "why" should be simple, inspiring, and everywhere; slack channels, kickoff meetings, even on the breakroom fridge. If people don't know it, they won't care about it. This is also a key part of adopting Agile; comminicating clearly and consistently.
 
 ### Examples of a Compelling "Why"
