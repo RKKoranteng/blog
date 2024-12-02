@@ -1,5 +1,5 @@
 ---
-title: 'Mastering the Basics in Your Agile Transformation'
+title: 'Master the Basics in Your Agile Transformation'
 author: Richard Koranteng
 date: 2024-10-28 15:00:00 -0600
 description: Teaching the fundamentals sets the foundation for success, enabling teams to move forward with confidence and clarity.
@@ -21,10 +21,45 @@ Think of Agile like building a playlist. If you don't know the vibe (your "why")
 Here's why the basics matter:
 
 **1. Misalignment Happens:** Teams might adopt Agile rituals without understanding their purpose.
-
 **2. Resistance Grows:** Without context, changes may feel like unnecessary overhead.
-
 **3. Sustainability Suffers:** Long-term adoption fails if the basics aren't ingrained.
+
+### The Agile 101 You Need to Know
+#### 1. The Big Picture: Agile Values and Principles
+
+First stop: the <a href="https://agilemanifesto.org/" target="blank">Agile Manifesto</a> - think of it as the ultimate user guide for Agile. It’s all about:
+* **People over Processes:** Collaboration beats rigid rules every time.
+* **Results over Red Tape:** Deliver something that works, not just a stack of paperwork.
+* **Teamwork over Turf Wars:** Work with your /users, not against them.
+* **Flexibility over Sticking to the Script:** Plans are great, but life happens; be ready to pivot.
+
+Agile is about the mindset. Teach your team to focus on what really matters: delivering value, not just ticking boxes.
+
+#### 2. Think Small, Win Big
+Agile is built on the idea of delivering work in small increments. Instead of spending months planning, focus on:
+* Delivering mini-goals in short bursts (sprints).
+* Getting feedback fast so you can tweak and improve.
+* It's a journey, not a race; don’t let perfection get in the way of progress.
+
+#### 3. Communication is a Superpower
+Agile works because teams talk, share, and solve problems together. Help your team with:
+* Transparent and open communication - be open, honest, and clear.
+* Cross-functional collaboration - break down silos (no more “that’s not my job” vibes).
+* Resolving dependencies and conflicts effectively - handling disagreements like pros, not cry babies. 😢 
+
+#### 4. Continuous Improvement
+Wins are contagious. Teach your team the value of retrospectives, where they reflect on:
+* What went well - celebrate wins, big and small.
+* What could be improved - own mistakes and turn them into lessons.
+* Actionable steps for future iterations - use retrospectives to keep leveling up after every sprint.
+
+#### 5. The Role of Leadership
+Leaders aren’t just bosses in Agile—they’re coaches, cheerleaders, and occasionally therapists. They play a crucial role in creating an environment for success by:
+* Clearing roadblocks so the team can focus.
+* Builing trust and empowering the team.
+* Being the kind of leader everyone wants to follow.
+
+### How to Teach Agile Without Boring Everyone
 
 🚀 Would you like ideas for specific pilot projects or Agile tools to kickstart your journey?
 
