@@ -7,7 +7,7 @@ categories: [Agile Transformation]
 tags: [agile]
 img_path: /assets/screenshots/agile-transformation
 image:
-  path: leadership-support.jpg
+  path: cover.jpg
   width: 100%
   height: 100%
   alt: leaders drive Agile transformations

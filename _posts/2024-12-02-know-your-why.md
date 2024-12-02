@@ -2,12 +2,12 @@
 title: 'Know Your Why: The Secret Sauce to Nailing Agile Transformation'
 author: Richard Koranteng
 date: 2024-12-01 15:00:00 -0600
-description: Make sure your reason for going Agile is clear and connected to the bigger picture..
+description: Make sure your reason for going Agile is clear and connected to the bigger picture.
 categories: [Agile Transformation]
 tags: [agile]
 img_path: /assets/screenshots/agile-transformation
 image:
-  path: know-why.png
+  path: cover.jpg
   width: 100%
   height: 100%
   alt: discover your "why"

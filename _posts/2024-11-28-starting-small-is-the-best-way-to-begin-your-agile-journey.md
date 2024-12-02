@@ -7,7 +7,7 @@ categories: [Agile Transformation]
 tags: [agile]
 img_path: /assets/screenshots/agile-transformation
 image:
-  path: start-small.jpg
+  path: cover.jpg
   width: 100%
   height: 100%
   alt: think big, start small, learn fast
