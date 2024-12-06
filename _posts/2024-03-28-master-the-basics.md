@@ -1,7 +1,7 @@
 ---
 title: 'Master the Basics in Your Agile Transformation'
 author: Richard Koranteng
-date: 2024-10-28 15:00:00 -0600
+date: 2024-03-28 15:00:00 -0600
 description: Teaching the fundamentals sets the foundation for success, enabling teams to move forward with confidence and clarity.
 categories: [Agile Transformation]
 tags: [agile]
