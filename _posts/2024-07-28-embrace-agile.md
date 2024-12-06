@@ -14,8 +14,9 @@ image:
 ---
 
 Agile practices help break down silos, improve focus, and drive innovation. Let’s break down some Agile practices that can take your team from "meh" to "wow" in no time.
-* [1. Daily Standups: Kick Off the Day Right](1.-Daily-Standups:-Kick-Off-the-Day-Right)
-* [2. Sprint Planning: Set the Game Plan](2.-Sprint-Planning:-Set-the-Game-Plan)
+* [1. Daily Standups: Kick Off the Day Right](#1.-Daily-Standups:-Kick-Off-the-Day-Right)
+* [2. Sprint Planning: Set the Game Plan](#2.-Sprint-Planning:-Set-the-Game-Plan)
+* [3. Retrospectives: Learn and Level Up](#3.-Retrospectives:-Learn-and-Level-Up)
 
 ### 1. Daily Standups: Kick Off the Day Right
 Think of daily standups as your team's morning huddle; a quick sync meeting to share progress, plans, and blockers.
