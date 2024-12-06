@@ -10,7 +10,7 @@ image:
   path: cover.jpg
   width: 100%
   height: 100%
-  alt: think big, start small, learn fast
+  alt: Agile Transformation Series
 ---
 
 I'm starting to sound like a broken record, but at this point it should be clear that Agile transformation is not fancy buzzword. At its core, Agile is about people, collaboration, and getting stuff done smarter. It’s not just about adopting cool tools or trendy workflows; it's a mindset shift that helps teams achieve goals and adapt to change without losing their sanity. And guess what? It all starts with nailing the basics.
@@ -100,6 +100,6 @@ Plus, it's not just a one-time thing. Once the basics are solid, your team can b
 ### Summary
 If you want your Agile transformation to actually stick, don’t rush. Slow down, learn the basics, and create a strong foundation. It’s like learning to skate; you must master balance before you can advance to the tricks. With a solid start, your team will be ready to take on challenges, adapt to change, and crush it every step of the way. **Start with the basics because the simplest steps often lead to the most profound changes.**
 
-🚀 Would you like ideas for specific pilot projects or Agile tools to kickstart your journey?
+🚀 Reach out if you need help with Agile transformation for your database team.
 
  [☎️ Schedule a call with me!](https://calendly.com/rkkoranteng/free-consultation)

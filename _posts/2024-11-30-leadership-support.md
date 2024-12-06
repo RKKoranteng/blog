@@ -10,7 +10,7 @@ image:
   path: cover.jpg
   width: 100%
   height: 100%
-  alt: leaders drive Agile transformations
+  alt: Agile Transformation Series
 ---
 
 Agile transformation isn't just a strategy; it’s a game-changer for organizations looking to thrive in today's fast-paced world. But let's be real: if leadership isn't fully invested, the transformation risks falling flat. Leaders aren't just passengers on the Agile journey, they're the drivers. Here's how to inspire leadership to champion Agile and set the stage for long-term success.

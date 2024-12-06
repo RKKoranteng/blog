@@ -10,7 +10,7 @@ image:
   path: cover.jpg
   width: 100%
   height: 100%
-  alt: think big, start small, learn fast
+  alt: Agile Transformation Series
 ---
 
 Agile is a game-changer for teams looking to boost productivity, adapt to change, and deliver high-quality results. But diving headfirst into Agile without preparation can feel overwhelming and risky. That’s why starting small is not just a good idea - it’s essential for long-term success. Take my word for it; I've learned this the hard way.
@@ -47,6 +47,6 @@ Here’s a practical way to begin:
 The Agile transformation summed up in a few words; **think big, start small, learn fast**. Starting small with Agile isn’t about playing it safe; it’s about setting yourself up for success. By easing into Agile practices, your DBA team can adapt naturally, build confidence, and avoid the pitfalls of trying to do too much too soon. Remember, Agile is a journey, not a race. Taking it one step at a time ensures that every step moves you closer to a thriving Agile culture.
 
 
-🚀 Would you like ideas for specific pilot projects or Agile tools to kickstart your journey?
+🚀 Reach out if you need help with Agile transformation for your database team.
 
  [☎️ Schedule a call with me!](https://calendly.com/rkkoranteng/free-consultation)
