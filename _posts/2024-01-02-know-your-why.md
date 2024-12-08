@@ -1,5 +1,5 @@
 ---
-title: 'Know Your Why: The Secret Sauce to Nailing Agile Transformation'
+title: '01 - Know Your Why For Agile Transformation'
 author: Richard Koranteng
 date: 2024-01-02 15:00:00 -0600
 description: Make sure your reason for going Agile is clear and connected to the bigger picture.

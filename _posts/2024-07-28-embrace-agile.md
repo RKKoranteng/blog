@@ -1,5 +1,5 @@
 ---
-title: 'Embracing Agile Practices: The Key to a High-Energy, High-Impact Team'
+title: '07 - Embrace Agile Practices'
 author: Richard Koranteng
 date: 2024-07-28 15:00:00 -0600
 description:  When you embrace Agile practices, you'll see your team hit new levels of productivity, creativity, and impact.

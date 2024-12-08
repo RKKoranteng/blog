@@ -1,5 +1,5 @@
 ---
-title: 'Get Leadership on Board for Agile Transformation'
+title: '02 - Get Leadership on Board for Agile Transformation'
 author: Richard Koranteng
 date: 2024-02-30 15:00:00 -0600
 description: Leaders aren't just passengers on the Agile journey, they're the drivers.

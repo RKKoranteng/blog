@@ -1,5 +1,5 @@
 ---
-title: 'Track, Adjust, and Repeat Your Agile Transformation'
+title: '10 - Track, Adjust, and Repeat Your Agile Transformation'
 author: Richard Koranteng
 date: 2024-10-28 15:00:00 -0600
 description: This is how your team stays nimble, solve problems, and deliver value again and again.

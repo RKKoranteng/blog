@@ -1,5 +1,5 @@
 ---
-title: 'Build a Collaborative Culture for Agile Transformation'
+title: '08 - Build a Collaborative Culture for Agile Transformation'
 author: Richard Koranteng
 date: 2024-08-28 15:00:00 -0600
 description:  Create a culture that brings people together and fuels your Agile success.

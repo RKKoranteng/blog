@@ -1,5 +1,5 @@
 ---
-title: 'Starting Small is the Best Way to Begin Your Agile Journey'
+title: '06 - Starting Small is the Best Way to Begin Your Agile Journey'
 author: Richard Koranteng
 date: 2024-06-24 15:00:00 -0600
 description: Starting small with your Agile journey is crucial for setting a strong foundation and ensuring long-term success.
