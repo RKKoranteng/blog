@@ -12,8 +12,12 @@ That said, all of my projects are released as open-source on [GitHub : @RKKorant
 <br />
 
 😕 &nbsp; **Curious about this website? Let me give you the scoop!**
-* 👨‍💻  This is the place where I blog about my agile database journey
-* 🔭  I’m currently working on something cool. Here's [my public kanban board](https://github.com/users/RKKoranteng/projects/23) 
+
+This is the place where I:
+
+* talk about [Agile Transformation](https://rkkoranteng.com/categories/agile-transformation/)
+* talk about the [Modern DBA (coming soon)](#)
+* share what [projects I'm working on](https://github.com/users/RKKoranteng/projects/23) 
 
 🔗 &nbsp; **Connect with me**
 * 📘 LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
