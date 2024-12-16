@@ -20,5 +20,6 @@ This is the place where I:
 * share what [projects I'm working on](https://github.com/users/RKKoranteng/projects/23) 
 
 🔗 &nbsp; **Connect with me**
+* 📆 <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2BMW_ebBrDPEnl5n3oiZziXvGFj0LRBzxEQZTsjCmE_M-OWgymxc6LqCIRmCe96LgKfmeK87OT" target="blank">Schedule a Call</a>
 * 📘 LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
 * 👍 Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
