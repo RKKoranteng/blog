@@ -11,10 +11,7 @@ order: 5
 - Linux
 - Git
 - Cloud
-    - AWS
-    - Azure
 - DevOps
-    - IaC
 
 
 
