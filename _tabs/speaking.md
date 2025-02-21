@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Training
 icon: fas fa-bookmark
 order: 5
 ---
