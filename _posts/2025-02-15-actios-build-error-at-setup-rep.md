@@ -1,20 +1,19 @@
 ---
-title: 'Build Error at "Setup Ruby" Atage of Build and Deploy on Actions'
+title: 'Build Error at Setup Ruby Atage of Build and Deploy on Actions'
 author: Richard Koranteng
-date: 2025-02-28 15:00:00 -0600
+date: 2025-02-15 15:00:00 -0600
 description: github actions build error due to old ruby version
 categories: [GitHub,Actions]
 tags: [error]
-img_path: /assets/screenshots/error
+img_path: /assets/screenshots/errors
 image:
-  path: 2025-02-28-actions-build-error.png
+  path: 2025-02-15-actions-build-error.png
   width: 100%
   height: 100%
   alt: github actions build error
 ---
 
 ## Issue
-
 I recently tried to push updates to my GitHub Pages hosted site (powered by Jekyll Theme) and got the following error at the 'Build' stage.
 ```
 Run ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42
