@@ -4,7 +4,7 @@ author: Richard Koranteng
 date: 2024-02-22 7:00:00 -0600
 description: GitHub Action error that integration resource is not accessible 
 categories: [GitHub,Actions]
-tags: [error,GitHub,Actions]
+tags: [error]
 img_path: /assets/screenshots/2024-02-22-github-action-resource-not-assessiable
 image:
   path: action-resource-integration-error.PNG
