@@ -1,21 +1,21 @@
 ---
-title: 'Build error at "Setup Ruby" stage of Build and Deploy on Actions'
+title: 'Build Error at "Setup Ruby" Atage of Build and Deploy on Actions'
 author: Richard Koranteng
 date: 2025-02-28 15:00:00 -0600
-description: I got this error while 
-categories: [Agile Transformation]
-tags: [agile]
-img_path: /assets/screenshots/agile-transformation
+description: github actions build error due to old ruby version
+categories: [GitHub,Actions]
+tags: [error]
+img_path: /assets/screenshots/error
 image:
-  path: cover.jpg
+  path: 2025-02-28-actions-build-error.png
   width: 100%
   height: 100%
-  alt: Agile Transformation Series
+  alt: github actions build error
 ---
 
 ## Issue
 
-I recently tried to push updates to my GitHub Pages hosted site and got the following error at the 'Build' stage.
+I recently tried to push updates to my GitHub Pages hosted site (powered by Jekyll Theme) and got the following error at the 'Build' stage.
 ```
 Run ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42
   with:
@@ -30,3 +30,17 @@ Once that completes successfully, mark it as complete with:
 $ touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
 It is your responsibility to ensure installing Ruby like that is not done in parallel.
 ```
+
+## Cause
+[#596](https://github.com/ruby/setup-ruby/pull/596) was released in https://github.com/ruby/setup-ruby/releases/tag/v1.177.0
+
+My workflow is using older version https://github.com/RKKoranteng/blog/blob/main/.github/workflows/jekyll.yml#L37
+
+## Solution
+I updated to newer Ruby version:
+
+Example
+```
+uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
+```
+
