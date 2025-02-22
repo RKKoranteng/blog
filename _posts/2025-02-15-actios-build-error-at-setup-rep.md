@@ -31,9 +31,9 @@ It is your responsibility to ensure installing Ruby like that is not done in par
 ```
 
 ## Cause
-[#596](https://github.com/ruby/setup-ruby/pull/596) was released in https://github.com/ruby/setup-ruby/releases/tag/v1.177.0
+[#596](https://github.com/ruby/setup-ruby/pull/596) was released in [https://github.com/ruby/setup-ruby/releases/tag/v1.177.0](https://github.com/ruby/setup-ruby/releases/tag/v1.177.0)
 
-My workflow is using older version https://github.com/RKKoranteng/blog/blob/main/.github/workflows/jekyll.yml#L37
+My workflow is using older version [https://github.com/RKKoranteng/blog/blob/main/.github/workflows/jekyll.yml#L37](https://github.com/RKKoranteng/blog/blob/main/.github/workflows/jekyll.yml#L37)
 
 ## Solution
 I updated to newer Ruby version:
