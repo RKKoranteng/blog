@@ -39,7 +39,7 @@ My workflow is using older version [https://github.com/RKKoranteng/blog/blob/mai
 I updated to newer Ruby version:
 
 Example
-```
+```yml
 uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
 ```
 
