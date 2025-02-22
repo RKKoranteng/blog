@@ -33,13 +33,19 @@ It is your responsibility to ensure installing Ruby like that is not done in par
 ## Cause
 [#596](https://github.com/ruby/setup-ruby/pull/596) was released in [https://github.com/ruby/setup-ruby/releases/tag/v1.177.0](https://github.com/ruby/setup-ruby/releases/tag/v1.177.0)
 
-My workflow is using older version [https://github.com/RKKoranteng/blog/blob/main/.github/workflows/jekyll.yml#L37](https://github.com/RKKoranteng/blog/blob/main/.github/workflows/jekyll.yml#L37)
+My workflow is using older version.
+
+Example:
+```yml
+uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
+```
 
 ## Solution
 I updated to newer Ruby version:
 
-Example
+Example:
 ```yml
 uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
 ```
 
+[See my workflow after the change](https://github.com/RKKoranteng/blog/blob/main/.github/workflows/jekyll.yml#L37)
