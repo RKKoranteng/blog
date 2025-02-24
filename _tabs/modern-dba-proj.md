@@ -1,5 +1,5 @@
 ---
-title: Training
+title: Modern DBA Proj
 icon: fas fa-bookmark
 order: 5
 ---
