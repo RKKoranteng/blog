@@ -1,14 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-[osiw]: 
-[post]: https://rkkoranteng.com/categories/agile-transformation/
-
-
-## 2025.02
-- add: training page
-- removed: waiving hand in about page
-- changed: simplify about page
-- fixed: update ruby version for actions runner
-- added: changelog file to track changes
-- changed: categories for version control
+### 2025.02
+- 2025.02.24 : update training guide for 'The Modern DBA Proj'
+- 2025.02.23 : add 'Training' page
+- 2025.02.23 : simplify 'About' page
+- 2025.02.23 : fixed build error by updating ruby version for actions runner
+- 2025.02.22 : added 'CHANGELOG' file to track changes
+- 2025.02.22 : changed categories for version control posts
