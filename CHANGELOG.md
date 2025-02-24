@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 
 ## 2025.02
+- add: training page
 - removed: waiving hand in about page
 - changed: simplify about page
 - fixed: update ruby version for actions runner
