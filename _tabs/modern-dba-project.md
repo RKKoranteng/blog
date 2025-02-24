@@ -8,6 +8,7 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 
 ## Agile
 
+- [Software Development Lifycycle](https://rkkoranteng.com/posts/sdlc/)
 - [Waterfall vs Agile Project Management](https://rkkoranteng.com/posts/waterfall-vs-agile-project-management/)
 
 
