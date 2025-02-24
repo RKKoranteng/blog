@@ -4,14 +4,16 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello world! My name is Richard. I'm a techie and I'm always building IT.
+Hello world! My name is Richard. I'm a Sys Admin, turned Web Dev, turned DBA. 
 
-**Curious what I'm working on?**
-* Maintain this blog, [rkkoranteng.com](https://rkkoranteng.com) 😏
-* Build website for startup - [elda-to.com](https://rkkoranteng.com/categories/agile-transformation/)
-* Document the [agile transformation](https://rkkoranteng.com/categories/agile-transformation/) process
+I'm always building IT. Here's what I've been up to:
 
-**Want to connect with me?**
-* 📆 <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2BMW_ebBrDPEnl5n3oiZziXvGFj0LRBzxEQZTsjCmE_M-OWgymxc6LqCIRmCe96LgKfmeK87OT" target="blank">Schedule a Call</a>
-* 📘 LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
+* ➡️ maintain this site, [rkkoranteng.com](https://rkkoranteng.com) 😏
+* ➡️ built and maintain website for startup - [elda-to.com](https://elda-to.com/)
+* ➡️ create free learning materials for [The Modern DBA Project](#)
+* ➡️ [blog](https://rkkoranteng.com/categories/) because my crap has to live somewhere 
+
+Want to connect with me?
+* 📆 [Schedule a Call](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2BMW_ebBrDPEnl5n3oiZziXvGFj0LRBzxEQZTsjCmE_M-OWgymxc6LqCIRmCe96LgKfmeK87OT)
+* 📘 LinkedIn [@richard-koranteng</a>](https://www.linkedin.com/in/richard-koranteng)
 * 👍 Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com) 
