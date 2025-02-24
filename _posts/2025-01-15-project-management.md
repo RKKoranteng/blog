@@ -10,7 +10,7 @@ image:
   path: waterfall-vs-agile.png
   width: 100%
   height: 100%
-  alt: github actions build error
+  alt: waterfall vs agile project management
 ---
 
 ## What is Project Management
