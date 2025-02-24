@@ -1,8 +1,8 @@
 ---
-title: 'Understandiing Project Management'
+title: 'Waterfall vs Agile Project Management'
 author: Richard Koranteng
 date: 2025-01-15 15:00:00 -0600
-description: basic explanation of project management
+description: basic explanation of waterfall vs agile project management
 categories: [Modern DBA Project,Agile]
 tags: [training]
 img_path: /assets/screenshots/agile-transformation
@@ -14,7 +14,7 @@ image:
 ---
 
 ## What is Project Management
-Inorder to really grasp what Scrum or Agile is, we need to first discuss the general concept of project management.
+Inorder to really grasp what Agile is, we need to first discuss the general concept of project management.
 
 Project management is the use of specific knowledge, skills, tools, and techniques to deliver something of value to people. A Project Manager is a person who uses project management methods to manage projects. IT project managers traditionally used a project management methodology known as 'waterfall' to manage their projects, however this methodology is no longer able to meet the unpredicatble nature of the tech sector. This is where 'Agile' project management mentholdoy comes into the picture. 
 
