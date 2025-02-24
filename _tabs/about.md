@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hello world <a href="https://rkkoranteng.com/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>..! My name is Richard. I'm a techie and I'm always building IT.
+Hello world! My name is Richard. I'm a techie and I'm always building IT.
 
 **Curious what I'm working on?**
 * Maintain this blog, [rkkoranteng.com](https://rkkoranteng.com) 😏
