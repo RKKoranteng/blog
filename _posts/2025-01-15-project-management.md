@@ -10,7 +10,7 @@ image:
   path: waterfall-vs-agile.png
   width: 100%
   height: 100%
-  alt: Credit: exposit.com
+  alt: credit - exposit.com
 ---
 
 ## What is Project Management
