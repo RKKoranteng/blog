@@ -8,7 +8,7 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 
 ## Agile
 
-- ✅ [Waterfall vs Agile Project Management](https://rkkoranteng.com/posts/project-management/)
+- [Waterfall vs Agile Project Management](https://rkkoranteng.com/posts/project-management/)
 
 
 ## Coming Soon
