@@ -10,7 +10,7 @@ image:
   path: waterfall-vs-agile.png
   width: 100%
   height: 100%
-  alt: waterfall vs agile project management
+  alt: Credit: exposit.com
 ---
 
 ## What is Project Management
