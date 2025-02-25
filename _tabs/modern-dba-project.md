@@ -18,7 +18,7 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 </details>
 
 <details>
-    <summary><b>Understanding The Afile Framework</b></summary>
+    <summary>Understanding The Afile Framework</summary>
 
     - <a>Software Development Lifycycle (soon)</a> <br>
     - <a>Waterfall (soon)</a> <br>
@@ -30,7 +30,7 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 </details>
 
 <details>
-    <summary><b>Intro to Linux</b></summary>
+    <summary>Intro to Linux</summary>
 
     - <a>Overview of Linux (soon)</a> <br>
     - <a>Linux FHS and Permissions (soon)</a> <br>
