@@ -11,36 +11,42 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 <details>
     <summary>Overview</summary>
 
-    - [Why the Modern DBA Project](#) (soon) <br>
+    - <a>Why the Modern DBA Project (soon)</a> <br>
     - <a>What's a Modern DBA (soon)</a> <br>
+
+    <br>
 </details>
 
 <details>
     <summary><b>Understanding The Afile Framework</b></summary>
 
-    * Software Development Lifycycle (soon)
-    * Waterfall (soon)
-    * Agile (soon)
-    * Scrum (soon)
-    * DevOps (soon)
+    - <a>Software Development Lifycycle (soon)</a> <br>
+    - <a>Waterfall (soon)</a> <br>
+    - <a>Agile (soon)</a> <br>
+    - <a>Scrum (soon)</a> <br>
+    - <a>DevOps (soon)</a> <br>
+
+    <br>
 </details>
 
 <details>
     <summary><b>Intro to Linux</b></summary>
 
-    - Overview of Linux (soon)
-    - Linux FHS and Permissions (soon)
-    - Linux Terminal and Command Structure (soon)
-    - File and Directory Operations Commands (soon)
-    - File Permission Commands (soon)
-    - File Compression and Archiving Commands (soon)
-    - Process Management Commands (soon)
-    - System Information Commands (soon)
-    - Network Commands (soon)
-    - Linux Variables (soon)
-    - IF Statement (soon)
-    - IF ELSE Statement (soon)
-    - IF ELIF Statement (soon)
-    - Comparison Operators (soon)
-    - Vi
+    - <a>Overview of Linux (soon)</a> <br>
+    - <a>Linux FHS and Permissions (soon)</a> <br>
+    - <a>Linux Terminal and Command Structure (soon)</a> <br>
+    - <a>File and Directory Operations Commands (soon)</a> <br>
+    - <a>File Permission Commands (soon)</a> <br>
+    - <a>File Compression and Archiving Commands (soon)</a> <br>
+    - <a>Process Management Commands (soon)</a> <br>
+    - <a>System Information Commands (soon)</a> <br>
+    - <a>Network Commands (soon)</a> <br>
+    - <a>Linux Variables (soon)</a> <br>
+    - <a>IF Statement (soon)</a> <br>
+    - <a>IF ELSE Statement (soon)</a> <br>
+    - <a>IF ELIF Statement (soon)</a> <br>
+    - <a>Comparison Operators (soon)</a> <br>
+    - <a>Vi</a> <br>
+
+    <br>
 </details>
