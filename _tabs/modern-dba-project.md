@@ -9,7 +9,7 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 📢 _Interested in having me speak? Contact me through [LinkedIn!](https://www.linkedin.com/in/richard-koranteng)_
 
 <details>
-    <summary>Overview</summary>
+    <summary><b>Overview</b></summary>
 
     - <a>Why the Modern DBA Project (soon)</a> <br>
     - <a>What's a Modern DBA (soon)</a> <br>
@@ -18,7 +18,7 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 </details>
 
 <details>
-    <summary>Understanding The Afile Framework</summary>
+    <summary><b>Understanding The Afile Framework</b></summary>
 
     - <a>Software Development Lifycycle (soon)</a> <br>
     - <a>Waterfall (soon)</a> <br>
@@ -30,7 +30,7 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 </details>
 
 <details>
-    <summary>Intro to Linux</summary>
+    <summary><b>Intro to Linux</b></summary>
 
     - <a>Overview of Linux (soon)</a> <br>
     - <a>Linux FHS and Permissions (soon)</a> <br>
