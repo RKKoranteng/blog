@@ -12,6 +12,7 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
     <summary><b>Overview</b></summary>
 
     - Why the Modern DBA Project (soon)
+    
     - What's a Modern DBA (soon)
 </details>
 
