@@ -9,10 +9,10 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 📢 _Interested in having me speak? Contact me through [LinkedIn!](https://www.linkedin.com/in/richard-koranteng)_
 
 <details>
-    <summary><b>Overview</b></summary>
+    <summary>Overview</summary>
 
-    1. Why the Modern DBA Project (soon)
-    1. What's a Modern DBA (soon)
+    - [Why the Modern DBA Project](#) (soon) <br>
+    - <a>What's a Modern DBA (soon)</a> <br>
 </details>
 
 <details>
