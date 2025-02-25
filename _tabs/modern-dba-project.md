@@ -11,19 +11,18 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 <details>
     <summary><b>Overview</b></summary>
 
-    - Why the Modern DBA Project (soon)
-    
-    - What's a Modern DBA (soon)
+    1. Why the Modern DBA Project (soon)
+    1. What's a Modern DBA (soon)
 </details>
 
 <details>
     <summary><b>Understanding The Afile Framework</b></summary>
 
-    - Software Development Lifycycle (soon)
-    - Waterfall (soon)
-    - Agile (soon)
-    - Scrum (soon)
-    - DevOps (soon)
+    * Software Development Lifycycle (soon)
+    * Waterfall (soon)
+    * Agile (soon)
+    * Scrum (soon)
+    * DevOps (soon)
 </details>
 
 <details>
