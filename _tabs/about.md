@@ -15,5 +15,5 @@ I'm always building IT. Here's what I've been up to:
 
 Want to connect with me?
 * 📆 [Schedule a Call](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2BMW_ebBrDPEnl5n3oiZziXvGFj0LRBzxEQZTsjCmE_M-OWgymxc6LqCIRmCe96LgKfmeK87OT)
-* 📘 LinkedIn [@richard-koranteng(https://www.linkedin.com/in/richard-koranteng)
+* 📘 LinkedIn [@richard-koranteng](https://www.linkedin.com/in/richard-koranteng)
 * 👍 Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com) 
