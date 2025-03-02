@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: r.K # the main title
 
-tagline: Always building IT  # it will display as the sub-title
+tagline: My Stack is Full  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blogging about databases, automation, cloud and my continuous improvement DevOps journey.
