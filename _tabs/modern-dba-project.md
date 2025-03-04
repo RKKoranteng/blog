@@ -18,7 +18,7 @@ Study guide for the modern DBA, as simple as possible, but not any simpler.
 </details>
 
 <details>
-    <summary><b>Understanding The Afile Framework</b></summary>
+    <summary><b>Understanding The Agile Framework</b></summary>
 
     - <a>Software Development Lifycycle (soon)</a> <br>
     - <a>Waterfall (soon)</a> <br>
