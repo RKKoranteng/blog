@@ -7,7 +7,7 @@ categories: [CI/CD,Liquibase]
 tags: [error]
 img_path: /assets/screenshots/errors
 image:
-  path: 2025-03-09-liquibase-checksum-error
+  path: 2025-03-09-liquibase-checksum-error.png
   width: 100%
   height: 100%
   alt: liquibase validation failed
