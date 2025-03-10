@@ -5,7 +5,7 @@ date: 2025-03-09 21:23:00 -0600
 description: liquibase validation failed with checksum error
 categories: [CI/CD,Liquibase]
 tags: [error]
-img_path: /assets/screenshots/errors
+img_path: /assets/screenshots/2025-03-09-liquibase-checksum-error
 image:
   path: 2025-03-09-liquibase-checksum-error.png
   width: 100%
