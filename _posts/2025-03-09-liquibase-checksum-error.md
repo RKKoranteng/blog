@@ -37,7 +37,7 @@ Liquibase Version: 4.6.2
 Liquibase Community 4.6.2 by Liquibase
 [2025-03-06 09:19:32] SEVERE [liquibase.integration] Validation Failed:
      1 change sets check sum
-          dbchangelog.xml::stproc_modern_db_proj::Ricchard Koranteng was: 8:70816a61e1809ebe7c21e8f211a40726 but is now: 8:9328211bd7605a32a936bfe949554e5f
+          dbchangelog.xml::stproc_modern_db_proj::Richard Koranteng was: 8:70816a61e1809ebe7c21e8f211a40726 but is now: 8:9328211bd7605a32a936bfe949554e5f
 
 liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: Unexpected error running Liquibase: Validation Failed:
      1 change sets check sum
