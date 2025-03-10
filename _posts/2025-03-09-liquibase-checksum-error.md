@@ -13,8 +13,13 @@ image:
   alt: liquibase validation failed
 ---
 
-## Issue
-Liquibase checksum validation failed. See log below:
+## Overview
+I've been hitting this Liquibase checksum validation error more frequently in a specific daatabase. Here's what I found out. Liquibase checksum validation errors occur when Liquibase detects that a previously applied changeset has been modified. Liquibase calculates a checksum (a hash) for each changeset and stores it in the DATABASECHANGELOG table. 
+
+When running updates, it recalculates the checksum and compares it to the stored value. If they don’t match, Liquibase throws a checksum validation error to prevent accidental or unintended changes. 
+
+Here's a snippet of the error.
+
 ```
 ####################################################
 ##   _     _             _ _                      ##
@@ -45,9 +50,7 @@ liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseExce
 
 ```
 
-## Cause
-Liquibase checksum validation errors occur when Liquibase detects that a previously applied changeset has been modified. Liquibase calculates a checksum (a hash) for each changeset and stores it in the DATABASECHANGELOG table. 
-When running updates, it recalculates the checksum and compares it to the stored value. If they don’t match, Liquibase throws a checksum validation error to prevent accidental or unintended changes. See common causes of `Checksum Validation Errors` below.
+## Common Causes of Checksum Validation Error
 
 #### 1. Manual Changes to the Changeset
 If you modify an already executed changeset (e.g., adding/removing columns, changing SQL statements), the checksum changes.
