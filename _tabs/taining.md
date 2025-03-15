@@ -4,9 +4,13 @@ icon: fas fa-bookmark
 order: 5
 ---
 
-## Study guide:
+## Study Guide:
+I've created this study guide to help streamline your learning and make it easier to follow. Enjoy!
+- ✅ [Scrum](#scrum)
+- 🔲 Linux (comin soon)
+- 🔲 Git (coming soon)
 
-### Scrum
+#### Scrum
 - [FAQ's](https://rkkoranteng.com/posts/scrum-faq/)
 - [Intro to Scrum](#)
 - [Roles & Responsibilities](#)
