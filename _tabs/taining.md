@@ -7,7 +7,7 @@ order: 5
 ## Study guide:
 
 ### Scrum
-- [FAQ's](#)
+- [FAQ's](https://rkkoranteng.com/posts/scrum-faq/)
 - [Intro to Scrum](#)
 - [Roles & Responsibilities](#)
 - [Scrum Artifacts](#)
