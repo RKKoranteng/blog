@@ -7,7 +7,7 @@ categories: [Training,Scrum]
 tags: [training]
 img_path: /assets/screenshots/training/scrum
 image:
-  path: scrum-cover.png
+  path: scrum-intro.png
   width: 100%
   height: 100%
   alt: https://rkkoranteng.com
@@ -38,7 +38,7 @@ Yes, user stories typically follow this structure
 👉 I wan to [action or fetaure],<br/>
 👉 So that [benefit of reason]
 
-> It's important to note that each user story should be refined to include clear acceptance criteria before being worked on. This ensure that the development team is aligned with desired outcome. 💡
+> Each user story should be refined with clear acceptance criteria to ensure the development team aligns with the desired outcome.💡
 {: .prompt-info }
 
 **Example User story:** 
