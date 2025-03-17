@@ -11,10 +11,9 @@ I've created this study guide to help streamline your learning and make it easie
 - 🔲 Git (coming soon)
 
 #### Scrum
-- [FAQ's](https://rkkoranteng.com/posts/scrum-faq/)
 - [Intro to Scrum](https://rkkoranteng.com/posts/scrum-intro/)
 - [Roles & Responsibilities](#)
-- [Scrum Artifacts](#)
+- [Scrum Artifacts](https://rkkoranteng.com/posts/scrum-artifacts/)
 - [Sprint Cemermonies](#)
 - [Sprint Planning](#)
 - [Daily Stand-up](#)
