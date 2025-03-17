@@ -7,7 +7,7 @@ categories: [Training,Scrum]
 tags: [training]
 img_path: /assets/screenshots/training/scrum
 image:
-  path: scrum-team.png
+  path: scrum-ceremonies.png
   width: 100%
   height: 100%
   alt: https://rkkoranteng.com
