@@ -56,5 +56,20 @@ Acceptance criteria:
 - The process should support multiple environments (QA, Staging, Production).
 ```
 
-## 8. What does it me to 'swarm' an issue?
+## 8. Frequently asked questions
+Scrum is a set of principles (framework) that is used to manage projects. Scrum falls under the Agile project management umbrella.
+
+### 8.1 What's Agile project management?
+Agile project management is an iterative approach for managing projets; meaning that the product and the way it's delivered are continuously refined and improved through repeated cycles of development, testing, and feedback. Agile project management helps when working with unpredictable, complex, and frequently changing project requirements.
+
+### 8.2 Do DBAs need to know Scrum ... and why?
+Yes, DBAs should understand the fundamentals of Scrum because it's the preferred framework for managing IT projects.
+
+### 8.3 Why is Scrum so popular now?
+The scrum framework has gained popularity within tech industry because it allows teams to self-manage, learn from experience, and adapt to change. These become competitive advantages when a team is very product/software development focused. Scrum therefore fits perfectly as an Agile project management approach for technology projects.
+
+### 8.4 Should DBAs get Scrum Master cert?
+As a DBA, it's not necessary to obtain the Scrum Master certification. Your role is to understand Agile concepts and participate in the Scrum events. There are more relevant certs for DBAs to focus on.
+
+### 8.5 What does it me to 'swarm' an issue?
 Swarming in scrum is a technique that involves multiple team members working together on a single, high-priority task. The goal is to complete the task as quickly as possible.
