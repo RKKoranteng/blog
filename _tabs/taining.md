@@ -12,7 +12,7 @@ I've created this study guide to help streamline your learning and make it easie
 
 #### Scrum
 - [Intro to Scrum](https://rkkoranteng.com/posts/scrum-intro/)
-- [Roles & Responsibilities](#)
+- [Roles & Responsibilities](https://rkkoranteng.com/posts/scrum-roles-and-responsibilities/)
 - [Scrum Artifacts](https://rkkoranteng.com/posts/scrum-artifacts/)
 - [Sprint Cemermonies](#)
 - [Sprint Planning](#)
