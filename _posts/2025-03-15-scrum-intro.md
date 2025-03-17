@@ -13,6 +13,8 @@ image:
   alt: https://rkkoranteng.com
 ---
 
+The scrum framework has gained popularity within tech industry because it allows teams to self-manage, learn from experience, and adapt to change. 
+
 ## 1. What's Project Management?
 Inorder to really grasp what Scrum is, we need to first understand project management. Project management is the use of specific knowledge, skills, tools, and techniques to deliver something of value to people. A Project Manager is a person who uses project management methods to manage projects. The two widely recognized general project management methodologies are Waterfall and Agile.
 
