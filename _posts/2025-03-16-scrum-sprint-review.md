@@ -7,7 +7,7 @@ categories: [Training,Scrum]
 tags: [training]
 img_path: /assets/screenshots/training/scrum
 image:
-  path: sprint-planning.png
+  path: sprint-review.png
   width: 100%
   height: 100%
   alt: https://rkkoranteng.com
