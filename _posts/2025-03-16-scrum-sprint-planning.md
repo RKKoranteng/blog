@@ -24,9 +24,9 @@ Sprint planning occurs at the beginning of the sprint. This is the first ceremon
 ## 3. Who is involved?
 Sprint planning involves the Scrum Team, which includes:
 
-- 👉 **Product owner:** defines the sprint goal and prioritizes product backlog items
-- 👉 **Scrum master:** facilitates the meeting and ensures Scrum principiles are followed
-- 👉 **Developement team:** selects backlog items, estimates effort, and plan the work needed to achive the sprint 
+- 👉 Product owner: defines the sprint goal and prioritizes product backlog items
+- 👉 Scrum master: facilitates the meeting and ensures Scrum principiles are followed
+- 👉 Developement team: selects backlog items, estimates effort, and plan the work needed to achive the sprint 
 
 ## 4. How long is this meeting
 Sprint planning ceremony is typically 1 hour, but it all depends on the environment and nature of the project.
@@ -34,10 +34,10 @@ Sprint planning ceremony is typically 1 hour, but it all depends on the environm
 ## 5. What's the expected outcome of this meeting
 By the end of this meeting, the scrum team should know the sprint goal; what are we trying to achieve and who will be working on which tasks. Here're more details:
 
-- ✅ **Defined sprint goal:** a clear objective that guides the team throughout the sprint.
-- ✅ **Committed pprint backlog:** a prioritized list of tasks (user stories) the team will complete during the sprint.
-- ✅ **Capacity and velocity alignment:** ensuring the planned work aligns with the team's availablility and other commitments.
-- ✅ **Clarity on deliverables:** the team understands what success looks like by the end of the sprint.
+- ✅ Defined sprint goal: a clear objective that guides the team throughout the sprint.
+- ✅ Committed pprint backlog: a prioritized list of tasks (user stories) the team will complete during the sprint.
+- ✅ Capacity and velocity alignment: ensuring the planned work aligns with the team's availablility and other commitments.
+- ✅ Clarity on deliverables: the team understands what success looks like by the end of the sprint.
 
 
 
