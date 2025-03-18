@@ -38,11 +38,10 @@ By the end of this meeting, the scrum master and development should by in synch 
 - ✅ Identified blockers: Any obstacles preventing progress are surfaced for resolution.
 - ✅ Updated sprint backlog: Scrum master will adjusted tasks based on progress and new insights.
 
-Typical questions answered during daily stand-
-```
-1. What did I accomplish yesterday?
-2. What will I work on today?
-3. Are there any blockers preventing progress?
-```
+Typical questions answered during daily stand-up
+
+- ✅ What did I accomplish yesterday?
+- ✅ What will I work on today?
+- ✅ Are there any blockers preventing progress?
 
 
