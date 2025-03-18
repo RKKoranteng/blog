@@ -17,7 +17,7 @@ I've created this study guide to help streamline your learning and make it easie
 - [Sprint Cemermonies](https://rkkoranteng.com/posts/scrum-ceremonies)
 - [Sprint Planning](https://rkkoranteng.com/posts/scrum-sprint-planning/)
 - [Daily Stand-up](https://rkkoranteng.com/posts/scrum-daily-standup/)
-- [Sprint Review](#)
+- [Sprint Review](https://rkkoranteng.com/posts/scrum-sprint-review)
 - [Sprint Retro](#)
 - [ Refinement](#)
 - [ Scrum in Practice](#)
