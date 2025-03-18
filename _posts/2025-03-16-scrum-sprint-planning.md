@@ -1,7 +1,7 @@
 ---
 title: 'Scrum - Sprint Planning'
 author: Richard Koranteng
-date: 2025-03-18 07 :00:00 -0600
+date: 2025-03-18 07:00:00 -0600
 description: meeting to identify work to be completed during the sprint
 categories: [Training,Scrum]
 tags: [training]

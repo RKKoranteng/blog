@@ -1,7 +1,7 @@
 ---
 title: 'Scrum - Daily Standup'
 author: Richard Koranteng
-date: 2025-03-18 07 :00:00 -0600
+date: 2025-03-18 08:00:00 -0600
 description: meeting to update on task progress
 categories: [Training,Scrum]
 tags: [training]
