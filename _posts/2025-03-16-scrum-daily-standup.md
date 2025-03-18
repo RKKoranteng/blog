@@ -40,8 +40,8 @@ By the end of this meeting, the scrum master and development should by in synch 
 
 Typical questions answered during daily stand-up
 
-- ✅ What did I accomplish yesterday?
-- ✅ What will I work on today?
-- ✅ Are there any blockers preventing progress?
+- ❓ What did I accomplish yesterday?
+- ❓ What will I work on today?
+- ❓ Are there any blockers preventing progress?
 
 
