@@ -20,6 +20,6 @@ I've created this study guide to help streamline your learning and make it easie
 - [Sprint Review](https://rkkoranteng.com/posts/scrum-sprint-review)
 - [Sprint Retro](https://rkkoranteng.com/posts/scrum-sprint-retro)
 - [Refinement](https://rkkoranteng.com/posts/scrum-backlog-refinement/)
-- [ Scrum in Practice](https://rkkoranteng.com/posts/scrum-summary/)
+- [ Scrum Summary](https://rkkoranteng.com/posts/scrum-summary/)
 
 📢 _Interested in having me speak? Contact me through [LinkedIn!](https://www.linkedin.com/in/richard-koranteng)_
