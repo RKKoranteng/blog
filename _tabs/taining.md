@@ -19,7 +19,7 @@ I've created this study guide to help streamline your learning and make it easie
 - [Daily Stand-up](https://rkkoranteng.com/posts/scrum-daily-standup/)
 - [Sprint Review](https://rkkoranteng.com/posts/scrum-sprint-review)
 - [Sprint Retro](https://rkkoranteng.com/posts/scrum-sprint-retro)
-- [ Refinement](#)
+- [Refinement](https://rkkoranteng.com/posts/scrum-backlog-refinement/)
 - [ Scrum in Practice](#)
 
 📢 _Interested in having me speak? Contact me through [LinkedIn!](https://www.linkedin.com/in/richard-koranteng)_
