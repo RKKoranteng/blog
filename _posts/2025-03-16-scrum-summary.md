@@ -1,7 +1,7 @@
 ---
 title: 'Scrum - Summary'
 author: Richard Koranteng
-date: 2025-03-21 11:00:00 -0600
+date: 2025-03-20 11:00:00 -0600
 description: a summary of scrum framework
 categories: [Training,Scrum]
 tags: [training]
