@@ -2,7 +2,7 @@
 title: 'Scrum - Summary'
 author: Richard Koranteng
 date: 2025-03-21 11:00:00 -0600
-description: meeting to discuss what went well and what needs to be improved
+description: ma summary of scrum framework
 categories: [Training,Scrum]
 tags: [training]
 img_path: /assets/screenshots/training/scrum
