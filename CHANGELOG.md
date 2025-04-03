@@ -8,6 +8,7 @@ All notable changes to this project will be documented in this file.
 
 ### Version 1.1
 - 2025.04.03 : integrate TRAINING site
+- 2025.04.03 : add image blurs (5 5 20 0 60 - black)
 
 ### Version 0.4
 - 2025.04.03 : fix spelling (i want traiining) on home page
