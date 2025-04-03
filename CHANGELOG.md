@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 ### To-do List
 - add Google Analytics
 - Link Google forms
+- update TRAINING pages properties
 
 ### Version 1.1
 - 2025.04.03 : integrate TRAINING site
