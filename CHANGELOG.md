@@ -3,8 +3,12 @@ All notable changes to this project will be documented in this file.
 
 ### To-do List
 - add Google Analytics
-- Link Google forms
+- link Google forms
 - update TRAINING and CONSULTING pages properties
+
+### Version 1.2
+- 2025.04.03 : link hero buttons on HOME page (training and consulting)
+- 2025.04.04 : remove prices from website
 
 ### Version 1.1
 - 2025.04.03 : consolidate all sites
