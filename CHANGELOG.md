@@ -5,9 +5,10 @@ All notable changes to this project will be documented in this file.
 - add Google Analytics
 - link Google forms
 - update TRAINING and CONSULTING pages properties
+- align hamburger menu items to left
 
 ### Version 1.3
-- 2025.04.03 : fix invalid link on CONSULTING page to schedule a free consultation
+- 2025.04.04 : fix invalid link on CONSULTING page to schedule a free consultation
 
 ### Version 1.2
 - 2025.04.03 : link hero buttons on HOME page (training and consulting)
