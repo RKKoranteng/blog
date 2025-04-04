@@ -6,6 +6,9 @@ All notable changes to this project will be documented in this file.
 - link Google forms
 - update TRAINING and CONSULTING pages properties
 
+### Version 1.3
+- 2025.04.03 : fix invalid link on CONSULTING page to schedule a free consultation
+
 ### Version 1.2
 - 2025.04.03 : link hero buttons on HOME page (training and consulting)
 - 2025.04.04 : remove prices from website
