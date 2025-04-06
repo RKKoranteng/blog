@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 - update all properties
 
 ### Version 2025.04
+- 2025.04.06 : remove about me button on HOME page opening new window
 - 2025.04.06 : add Google Analytics
 - 2025.04.05 : simplify versioning; use YYYY.MM
 - 2025.04.05 : finish line lang for HOME page
