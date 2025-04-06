@@ -6,7 +6,9 @@ All notable changes to this project will be documented in this file.
 - link Google forms
 - update all properties
 
-### Version 0.0.1
+### Version 2025.04
+- 2025.04.06 : add Google Analytics
+- 2025.04.05 : simplify versioning; use YYYY.MM
 - 2025.04.05 : finish line lang for HOME page
 - 2025.04.05 : update services icon on SERVICE page
 - 2025.04.05 : update services summary on SERVICE page
