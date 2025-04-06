@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 - update all properties
 
 ### Version 0.0.1
+- 2025.04.05 : fix positioning of hero cta butonn on HOME page
 - 2025.04.05 : add SERVICES page
 - 2025.04.05 : remove TRAINING and CONSULTING pages
 - 2025.04.05 : align hamburger menu items to left
