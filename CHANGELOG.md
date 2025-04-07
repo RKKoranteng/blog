@@ -2,11 +2,11 @@
 All notable changes to this project will be documented in this file.
 
 ### To-do List
-- add Google Analytics
 - link Google forms
 - update all properties
 
 ### Version 2025.04
+- 2025.04.06 : add logo.drawio
 - 2025.04.06 : fix spelling 'Stay Connected' button
 - 2025.04.06 : add Google Analytics
 - 2025.04.06 : remove about me button on HOME page opening new window
