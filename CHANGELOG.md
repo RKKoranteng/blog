@@ -3,9 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ### To-do List
 - link Google forms
-- update all properties
 
 ### Version 2025.04
+- 2025.04.17 : update all properties
+- 2025.04.17 : rebrand site and services
 - 2025.04.06 : add logo.drawio
 - 2025.04.06 : fix spelling 'Stay Connected' button
 - 2025.04.06 : add Google Analytics
