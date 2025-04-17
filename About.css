@@ -107,8 +107,8 @@
 }
 
 .u-section-2 .u-text-3 {
-  font-style: italic;
   text-transform: none;
+  font-style: italic;
   margin: 20px 0 0;
 }
 
@@ -119,8 +119,9 @@
 
 .u-section-2 .u-image-1 {
   min-height: 409px;
-  background-image: url("images/richardkoranteng.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/14102246_175860122838799_7539604088175291224_n.jpg");
+  background-position: 12.33% 50%;
+  background-size: cover;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -399,6 +400,32 @@
   padding: 0;
 }
 
+.u-section-3 .u-accordion-item-8 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-accordion-link-8 {
+  font-size: 1.125rem;
+  font-weight: 400;
+  padding: 25px 20px;
+}
+
+.u-section-3 .u-icon-8 {
+  height: 15px;
+  width: 15px;
+  background-image: none;
+}
+
+.u-section-3 .u-accordion-pane-8 {
+  min-height: 150px;
+  background-image: none;
+}
+
+.u-section-3 .u-container-layout-8 {
+  padding: 20px;
+}
+
 @media (max-width: 1199px) {
   .u-section-3 .u-accordion-1 {
     width: 940px;
@@ -432,6 +459,11 @@
   }
 
   .u-section-3 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-8 {
     padding-left: 10px;
     padding-right: 10px;
   }
