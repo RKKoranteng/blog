@@ -234,6 +234,11 @@
   padding: 20px;
 }
 
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-accordion-item-2 {
   margin-top: 10px;
   margin-bottom: 0;
@@ -390,12 +395,12 @@
   padding: 20px;
 }
 
-.u-section-3 .u-btn-1 {
+.u-section-3 .u-btn-2 {
   background-image: none;
   padding: 0;
 }
 
-.u-section-3 .u-btn-2 {
+.u-section-3 .u-btn-3 {
   background-image: none;
   padding: 0;
 }
