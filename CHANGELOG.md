@@ -5,6 +5,9 @@ All notable changes to this project will be documented in this file.
 - link Google forms
 
 ### Version 2025.04
+- 2025.04.25 : remove obsolete images and modules
+- 2025.04.25 : update picture on ABOUT page
+- 2025.04.25 : change business name TERMS and PRIVACY pages
 - 2025.04.22 : rebrand site and services (along w/ page properties)
 - 2025.04.17 : update icons on SERVICE page
 - 2025.04.17 : update all properties
