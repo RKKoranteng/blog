@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 ### To-do List
 - link Google forms
 
-### Version 2025.04
+### Done
+- 2025.06.24 : add blog menu item to header and footer
 - 2025.04.25 : remove obsolete images and modules
 - 2025.04.25 : update picture on ABOUT page
 - 2025.04.25 : change business name TERMS and PRIVACY pages
